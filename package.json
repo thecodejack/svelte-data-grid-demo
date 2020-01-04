@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "sirv-cli": "^0.4.4",
-    "svelte-data-grid": "file:../svelte-data-grid"
+    "svelte-data-grid-tmp": "^3.0.0"
   }
 }

@@ -1,8 +1,8 @@
 <script>
-  import DataGrid from "svelte-data-grid";
-  import TextboxCell from "svelte-data-grid/src/textbox-cell.svelte";
-  import SelectCell from "svelte-data-grid/src/select-cell.svelte";
-  import CheckboxCell from "svelte-data-grid/src/checkbox-cell.svelte";
+  import DataGrid from "svelte-data-grid-tmp";
+  import TextboxCell from "svelte-data-grid-tmp/src/textbox-cell.svelte";
+  import SelectCell from "svelte-data-grid-tmp/src/select-cell.svelte";
+  import CheckboxCell from "svelte-data-grid-tmp/src/checkbox-cell.svelte";
   import dRows from "./dataset.json";
 
   let allowResizeFromTableCells = false;

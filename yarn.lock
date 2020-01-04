@@ -1116,8 +1116,10 @@ supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-"svelte-data-grid@file:../svelte-data-grid":
-  version "3.0.0-dev.0"
+svelte-data-grid-tmp@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/svelte-data-grid-tmp/-/svelte-data-grid-tmp-3.0.0.tgz#9ccaa34562f20607b5543aa61bb1dad683c35cf5"
+  integrity sha512-OFbPh0+311RA5omDHk/2P1HxMiP+EbMdh/pIjdmt9y6cszguja0ZCeXS7R8Y46SfGpK4bKQovJs6rH501krU8Q==
   dependencies:
     debounce "^1.2.0"
     deep-diff "^1.0.2"
